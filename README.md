@@ -2,10 +2,10 @@
 
 #Backend
 
-This project is a backend API built with Node.js and Express.js that allows users to search for recipes and save their preferences. It integrates with the Spoonacular API to fetch recipe data based on user searches and uses OAuth for user registration and authentication. User preferences, such as saved recipes, are stored in a MongoDB database.
+#This project is a backend API built with Node.js and Express.js that allows users to search for recipes and save their preferences. It integrates with the Spoonacular API to fetch recipe data based on user searches and uses OAuth for user registration and authentication. User preferences, such as saved recipes, are stored in a MongoDB database.
 
-Getting Started
-To get started with this project, follow these steps:
+##Getting Started
+#To get started with this project, follow these steps:
 Clone the repository to your local machine.
 Navigate to the project directory in your terminal.
 Run npm install to install the necessary dependencies.
