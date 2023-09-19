@@ -8,8 +8,8 @@
 
 #To get started with this project, follow these steps:
 
-Clone the repository to your local machine.
-Navigate to the project directory in your terminal.
+I have Clone the repository to machine.
+Navigated the project directory in your terminal.
 Run npm install to install the necessary dependencies.
 Run npm start to start the development server.
 
